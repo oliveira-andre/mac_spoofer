@@ -1,0 +1,13 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==4.0.0
+docopt==0.6.2
+idna==2.10
+PySocks==1.7.1
+requests==2.25.1
+soupsieve==2.2.1
+SpoofMAC==2.1.1
+stem==1.8.0
+torrequest==0.1.0
+urllib3==1.26.4
